@@ -3,7 +3,7 @@
 
 **GameXcel** is a sleek and powerful eCommerce UI/UX design for purchasing high-performance **gaming accessories**, built with a gamer-centric aesthetic in mind. Designed using **Figma**, it offers a dark-mode inspired layout with clean navigation and product-focused presentation.
 
-![GameXcel Banner]<img width="390" height="844" alt="iPhone 13   14 - 3" src="https://github.com/user-attachments/assets/c051c52d-51d1-4081-a344-4df1566e5081" />
+<img width="390" height="844" alt="iPhone 13   14 - 3" src="https://github.com/user-attachments/assets/c051c52d-51d1-4081-a344-4df1566e5081" />
 
 
 ---
